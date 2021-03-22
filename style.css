@@ -1,0 +1,24 @@
+body{
+    background-color: #22396a;
+    color: aliceblue;
+ }
+
+a   {
+    color: red;
+}
+h4  {
+    color: rgb(214, 241, 93);
+    text-underline-position: below;
+} 
+
+h2  {
+    color: #31bb66;
+}
+
+.header{
+    text-align: center;
+}
+.footer{
+    background-color: #11244d;
+    text-align: center;
+}
